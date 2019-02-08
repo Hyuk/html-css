@@ -5,7 +5,7 @@
 * HTML - Hyper Text Markup Language
 * CSS - Cascading Style Sheets
 
-## [HTML Elements](https://github.com/Hyuk/HTML-CSS/blob/master/html5-elements/README.md)
+## [HTML Elements](https://github.com/Hyuk/HTML-CSS/blob/master/html-elements/README.md)
 
 
 
