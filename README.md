@@ -1,14 +1,11 @@
 # HTML & CSS
 
 
-## HTML 이란?
-Hyper Text Markup Language
+## Definition
+HTML - Hyper Text Markup Language
+CSS - Cascading Style Sheets
 
-## HTML TAG
-* HTML5 Declaration
-```html
-<!DOCTYPE html>
-```
+* [HTML Elements]()
 
 * HTML5 basic structure
 ```html
@@ -32,11 +29,6 @@ Hyper Text Markup Language
 <h4></h4>
 <h5></h5>
 <h6></h6>
-```
-
-* Anchor Tag
-```html
-<a href="https://www.naver.com">네이버</a>
 ```
 
 * Linebreak Tag
