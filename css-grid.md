@@ -105,6 +105,44 @@ div {
 }
 ```
 
+* 해당 엘레멘트의 좌우 정렬을 지정한다.
+```css
+div {
+    justify-self: start;
+}
+
+div {
+    justify-self: center;
+}
+
+div {
+    justify-self: end;
+}
+
+div {
+    justify-self: stretch;
+}
+```
+
+* 해당 엘레멘트의 상하 정렬을 지정한다.
+```css
+div {
+    align-self: start;
+}
+
+div {
+    align-self: center;
+}
+
+div {
+    align-self: end;
+}
+
+div {
+    align-self: stretch;
+}
+```
+
 * 해당 엘레멘트의 가로영역을 지정한다.
 ```css
 div {
