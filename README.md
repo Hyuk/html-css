@@ -8,16 +8,5 @@
 ## [HTML Elements](https://github.com/Hyuk/HTML-CSS/blob/master/html-elements/README.md)
 
 
-
-
-
-
-* Input Tag
-```html
-<input type="">
-```
-
-# Flexbox and CSS Grids
-* Flexbox is one demension
-* CSS Grids is two demensions
+## [CSS](https://github.com/Hyuk/HTML-CSS/blob/master/css/README.md)
 
