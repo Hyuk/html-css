@@ -1,6 +1,7 @@
 # CSS GRID
 
-* [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+* [Website - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [Youtube - CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 
 ## Properties
 
