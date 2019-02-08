@@ -1,5 +1,0 @@
-# Linebreak Tag
-
-```html
-<br />
-```
