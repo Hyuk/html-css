@@ -4,10 +4,10 @@
 * HTML - Hyper Text Markup Language
 * CSS - Cascading Style Sheets
 
-## [HTML Elements](https://github.com/Hyuk/HTML-CSS/blob/master/html-elements/README.md)
+## [HTML Elements](https://github.com/Hyuk/HTML-CSS/blob/master/html)
 
 
-## [CSS](https://github.com/Hyuk/HTML-CSS/blob/master/css/README.md)
+## [CSS](https://github.com/Hyuk/HTML-CSS/blob/master/css)
 
 
 ## Tools
