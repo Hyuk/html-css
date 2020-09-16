@@ -1,6 +1,5 @@
 # HTML & CSS
 
-
 ## Definition
 * HTML - Hyper Text Markup Language
 * CSS - Cascading Style Sheets
@@ -11,4 +10,6 @@
 ## [CSS](https://github.com/Hyuk/HTML-CSS/blob/master/css/README.md)
 
 
-## [HTML Validation](https://validator.w3.org)
+## Tools
+
+### [HTML Validation](https://validator.w3.org)
