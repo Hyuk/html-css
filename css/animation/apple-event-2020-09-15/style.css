@@ -27,7 +27,7 @@
  }
  
  .hearth {
-   background-image: url('https://github.com/Hyuk/HTML-CSS/blob/master/css/animation/apple-event-2020-09-15/Hashflog-AppleEvent.svg');
+   background-image: url('https://raw.githubusercontent.com/Hyuk/HTML-CSS/bff5174e5baa81862f5491bd6333fc2215ce3085/css/animation/apple-event-2020-09-15/Hashflag-AppleEvent.svg');
    background-size: calc(var(--size) * var(--frames)) var(--size);
    background-repeat: no-repeat;
    background-position-x: calc(var(--size) * (var(--frames) * -1 + 2));
